@@ -118,7 +118,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.210.55.120:8081/repository/boa-release/url>
+	      <url>http://54.210.55.120:8081/repository/boa-release</url>
 	    </repository>
 	    
 	    <snapshotRepository>
